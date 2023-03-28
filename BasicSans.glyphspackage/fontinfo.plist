@@ -48,6 +48,16 @@ type = descender;
 }
 );
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+nV = "100";
+nd = "80";
+oH = "80";
+oV = "100";
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
