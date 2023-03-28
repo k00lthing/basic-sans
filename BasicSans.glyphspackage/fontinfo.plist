@@ -2,9 +2,10 @@
 .appVersion = "3151";
 .formatVersion = 3;
 date = "2023-03-28 10:57:03 +0000";
-familyName = "New Font";
+familyName = "Basic Sans";
 fontMaster = (
 {
+iconName = SemiBold;
 id = m01;
 metricValues = (
 {
@@ -27,7 +28,10 @@ over = -16;
 pos = -200;
 }
 );
-name = Regular;
+name = Medium;
+stemValues = (
+100
+);
 }
 );
 metrics = (
@@ -45,6 +49,11 @@ type = baseline;
 },
 {
 type = descender;
+}
+);
+stems = (
+{
+name = Vertical;
 }
 );
 unitsPerEm = 1000;
