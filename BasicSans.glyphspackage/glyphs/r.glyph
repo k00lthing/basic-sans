@@ -27,9 +27,10 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 330;
 }
 );
 metricLeft = "=n";
+metricRight = "=l";
 unicode = 114;
 }
