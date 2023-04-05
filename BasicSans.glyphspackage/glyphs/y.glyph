@@ -20,7 +20,7 @@ nodes = (
 closed = 1;
 nodes = (
 (201,0,l),
-(189,-57,o),
+(184,-57,o),
 (168,-119,o),
 (93,-119,cs),
 (62,-119,o),
@@ -36,8 +36,10 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 485;
 }
 );
+metricLeft = "=v";
+metricRight = "=v-15";
 unicode = 121;
 }
