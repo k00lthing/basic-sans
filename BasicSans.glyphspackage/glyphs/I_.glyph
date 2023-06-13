@@ -3,8 +3,37 @@ glyphname = I;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,0,l),
+(145,0,l),
+(145,700,l),
+(40,700,l)
+);
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 185;
+}
+);
+metricLeft = "=i+10";
+metricRight = "=i+10";
 unicode = 73;
 }
