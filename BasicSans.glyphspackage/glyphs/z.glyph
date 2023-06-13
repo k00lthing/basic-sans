@@ -3,8 +3,55 @@ glyphname = z;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,0,l),
+(102,0,l),
+(401,499,l),
+(301,499,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(22,500,l),
+(22,419,l),
+(273,419,l),
+(337,499,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(135,80,l),
+(68,0,l),
+(381,0,l),
+(381,80,l)
+);
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 401;
+}
+);
+metricLeft = "=x";
+metricRight = "=x";
 unicode = 122;
 }
