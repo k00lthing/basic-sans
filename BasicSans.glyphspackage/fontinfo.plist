@@ -60,12 +60,139 @@ unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
 m01 = {
+HH = "90";
+HV = "105";
+OH = "100";
+OV = "105";
 nV = "100";
 nd = "80";
 oH = "80";
 oV = "100";
 tH = "80";
 };
+};
+"com.hugojourdan.ColorFlow-Report_Data" = {
+m01 = {
+A = None;
+B = None;
+C = None;
+D = None;
+E = None;
+F = None;
+G = None;
+H = None;
+I = None;
+J = None;
+K = None;
+L = None;
+M = None;
+N = None;
+O = None;
+P = None;
+Q = None;
+R = None;
+S = None;
+T = None;
+U = None;
+V = None;
+W = None;
+X = None;
+Y = None;
+Z = None;
+a = None;
+b = None;
+c = None;
+d = None;
+e = None;
+f = None;
+g = None;
+h = None;
+i = None;
+j = None;
+k = None;
+l = None;
+m = None;
+n = None;
+o = None;
+p = None;
+q = None;
+r = None;
+s = None;
+space = None;
+t = None;
+u = None;
+v = None;
+w = None;
+x = None;
+y = None;
+z = None;
+};
+};
+"com.hugojourdan.ColorFlow-currentFont" = "<null>";
+"com.hugojourdan.ColorFlow-export" = "<null>";
+"com.hugojourdan.ColorFlow-master-data" = {
+m01 = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+"com.hugojourdan.ColorFlow-selectedLayer" = 1;
+"com.hugojourdan.ColorFlow-selectedLayer-data" = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+"com.hugojourdan.ColorFlow-selectedMaster" = {
+iconName = SemiBold;
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 700;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+pos = 0;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Medium;
+stems = (
+{
+id = "BB10C48B-E9E4-440E-9DDE-E66EEE27D47B";
+width = 100;
+}
+);
 };
 };
 versionMajor = 1;
