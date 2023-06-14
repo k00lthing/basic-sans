@@ -7,13 +7,13 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(276,0,l),
-(416,0,l),
-(680,700,l),
-(575,700,l),
-(344,110,l),
-(115,701,l),
-(10,701,l)
+(306,0,l),
+(446,0,l),
+(710,700,l),
+(605,700,l),
+(374,110,l),
+(145,701,l),
+(40,701,l)
 );
 }
 );
@@ -33,10 +33,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 690;
+width = 750;
 }
 );
-metricLeft = "=H/4";
-metricRight = "=H/4";
+metricLeft = "=H";
+metricRight = "=H";
 unicode = 86;
 }
