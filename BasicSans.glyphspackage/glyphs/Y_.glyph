@@ -3,6 +3,23 @@ glyphname = Y;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(294,260,l),
+(295,260,l),
+(295,0,l),
+(400,0,l),
+(400,260,l),
+(670,700,l),
+(565,700,l),
+(346,351,l),
+(145,701,l),
+(40,701,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,8 +36,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 710;
 }
 );
+metricLeft = "=V";
+metricRight = "=V";
 unicode = 89;
 }
