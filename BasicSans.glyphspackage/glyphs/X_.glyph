@@ -3,6 +3,25 @@ glyphname = X;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,351,l),
+(21,0,l),
+(144,0,l),
+(328,256,l),
+(509,0,l),
+(625,0,l),
+(388,351,l),
+(622,700,l),
+(502,700,l),
+(328,432,l),
+(140,700,l),
+(18,700,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,8 +38,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 643;
 }
 );
+metricLeft = "=V";
+metricRight = "=V";
 unicode = 88;
 }
