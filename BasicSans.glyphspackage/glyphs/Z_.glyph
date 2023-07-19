@@ -3,6 +3,21 @@ glyphname = Z;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,90,l),
+(582,699,l),
+(51,699,l),
+(51,609,l),
+(404,609,l),
+(23,0,l),
+(554,0,l),
+(554,90,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
