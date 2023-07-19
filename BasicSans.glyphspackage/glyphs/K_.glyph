@@ -3,6 +3,28 @@ glyphname = K;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(416,0,l),
+(521,0,l),
+(262,348,l),
+(529,699,l),
+(424,699,l),
+(146,348,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(65,0,l),
+(170,0,l),
+(170,700,l),
+(65,700,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
