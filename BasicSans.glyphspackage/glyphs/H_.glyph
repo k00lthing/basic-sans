@@ -48,7 +48,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 601;
+width = 600;
 }
 );
 metricLeft = "=I";

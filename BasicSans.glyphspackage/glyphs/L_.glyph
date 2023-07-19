@@ -39,7 +39,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 512;
+width = 511;
 }
 );
 metricLeft = "=H";
