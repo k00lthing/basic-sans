@@ -70,6 +70,6 @@ width = 507;
 }
 );
 metricLeft = "=o";
-metricRight = "=l";
+metricRight = "=n";
 unicode = 100;
 }

@@ -9,14 +9,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(22,500,l),
-(22,419,l),
-(253,419,l),
-(2,0,l),
-(381,0,l),
-(381,80,l),
-(150,80,l),
-(401,499,l)
+(0,500,l),
+(0,419,l),
+(231,419,l),
+(0,50,l),
+(0,0,l),
+(359,0,l),
+(359,80,l),
+(128,80,l),
+(359,449,l),
+(359,499,l)
 );
 }
 );
@@ -36,7 +38,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 401;
+width = 359;
 },
 {
 associatedMasterId = m01;
@@ -90,7 +92,7 @@ com.hugojourdan.ColorFlow = {
 width = 401;
 }
 );
-metricLeft = "=x";
-metricRight = "=x";
+metricLeft = "=v";
+metricRight = "=v";
 unicode = 122;
 }

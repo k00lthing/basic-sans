@@ -34,6 +34,13 @@ stemValues = (
 );
 }
 );
+kerningLTR = {
+m01 = {
+A = {
+B = 0;
+};
+};
+};
 metrics = (
 {
 type = ascender;

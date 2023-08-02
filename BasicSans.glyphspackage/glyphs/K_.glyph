@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 0;
 glyphname = K;
 kernLeft = H;
 kernRight = K;
@@ -11,9 +11,9 @@ shapes = (
 closed = 1;
 nodes = (
 (416,0,l),
-(531,0,l),
-(268,348,l),
-(549,707,l),
+(539,0,l),
+(266,348,l),
+(559,707,l),
 (434,707,l),
 (146,348,l)
 );
