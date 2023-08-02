@@ -1,0 +1,54 @@
+{
+glyphname = one;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,600,o),
+(170,575,o),
+(0,575,c),
+(0,495,l),
+(185,495,l),
+(185,0,l),
+(285,0,l),
+(285,700,l),
+(195,700,l)
+);
+}
+);
+width = 285;
+},
+{
+associatedMasterId = m01;
+layerId = "0D482BEB-FDBB-4265-996C-E1DFBC35C223";
+name = "26. Jul 23, 16:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,0,l),
+(325,0,l),
+(325,700,l),
+(225,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(40,575,l),
+(40,475,l),
+(280,475,l),
+(280,575,l)
+);
+}
+);
+width = 325;
+}
+);
+metricLeft = "=0";
+metricRight = "=0";
+unicode = 49;
+}

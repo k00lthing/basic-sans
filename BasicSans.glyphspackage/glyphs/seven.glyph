@@ -1,0 +1,30 @@
+{
+glyphname = seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,700,l),
+(0,610,l),
+(352,610,l),
+(252,502,o),
+(175,297,o),
+(175,0,c),
+(275,0,l),
+(275,297,o),
+(365,502,o),
+(475,610,c),
+(477,700,l)
+);
+}
+);
+width = 477;
+}
+);
+metricLeft = "=0";
+metricRight = "=0";
+unicode = 55;
+}
