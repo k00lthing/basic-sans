@@ -64,5 +64,7 @@ com.hugojourdan.ColorFlow = {
 width = 439;
 }
 );
+metricLeft = "=o";
+metricRight = "=o";
 unicode = 115;
 }

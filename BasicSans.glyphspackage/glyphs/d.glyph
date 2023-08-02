@@ -66,10 +66,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 507;
+width = 512;
 }
 );
 metricLeft = "=o";
-metricRight = "=n";
+metricRight = "=l";
 unicode = 100;
 }
